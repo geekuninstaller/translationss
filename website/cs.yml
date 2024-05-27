@@ -1,0 +1,89 @@
+top_menu:
+  overview: Přehled
+  download: Stáhnout
+  translate: přeložit
+  about: O
+
+main-page:
+  title: Geek Uninstaller - nejlepší bezplatný odinstalátor
+  description: Efektivní a rychlý, malý a přenosný. 100% zdarma
+  header: Efektivní a rychlý, malý a přenosný. 100% zdarma
+  header_feature_1: Čisté odstranění a odstranění silou
+  header_feature_2: Nativní podpora X64
+  header_feature_3: Snadno použitelné uživatelské rozhraní
+  header_feature_4: Odinstalujte aplikace Microsoft Store
+  button_download: Stáhnout
+  stripe_1_header: Nejlepší funkce
+  tour_feature_1: Čisté odstranění
+  tour_feature_1_text: Provádí hluboké a rychlé skenování a odstraňuje všechny zbytky. Udržujte svůj počítač čistý!
+  tour_feature_2: Vynucené odstranění
+  tour_feature_2_text: Použijte Vynucené Odstranění pro tvrdohlavé a nefunkční programy.
+  tour_feature_3: Jednoduché uživatelské rozhraní
+  tour_feature_3_text: Skvěle vypadající a překvapivě funkční. Více než 40 jazyků na palubě!
+  tour_feature_4: Odinstalujte aplikace Microsoft Store
+  tour_feature_4_text: Odinstalujte aplikace Microsoft Store ve Windows 8/8.1/10/11.
+  tour_feature_5: Rychlé a chytré
+  tour_feature_5_text: Okamžité spuštění. Zadáním vyhledáte aplikaci okamžitě. Rychlé skenování zbytků.
+  tour_feature_6: Přenosný
+  tour_feature_6_text: Jediný a malý EXE běží na jakémkoli 32 a 64bitovém systému Windows
+  screen_1: Jednoduché uživatelské rozhraní
+  screen_1_text: Programy zvýrazněné fialově oranžovou barvou jsou nedávno nainstalovány/upraveny (od posledního spuštění Geek Uninstaller).
+  screen_2: Čisté odstranění, nucené odstranění
+  screen_2_text: Standardní program pro odstranění zanechá na vašem PC spoustu zbytků. Geek Uninstaller poté provede hluboké a rychlé skenování a odstraní všechny zbytky.
+  screen_3: Odinstalujte aplikace Microsoft Store
+  screen_3_text: Odinstalujte aplikace Microsoft Store. Pomocí nabídky Zobrazit nebo Ctrl+Tab můžete přepínat mezi aplikacemi pro plochu a aplikacemi Store.
+  screen_4: Rychlé okamžité vyhledávání
+  screen_4_text: Napište, abyste okamžitě našli program
+  screen_5: Tmavý režim
+  screen_5_text: Geek Uninstaller je i pro vás, creatury v noci
+  multilingual_interface: "Rozhraní Geek Uninstaller je přeloženo do většiny jazyků:"
+  review_1: Výkon Geek Uninstaller je působivý. Rychle se odinstaluje a najde zbylé soubory, které nikdo nemohl. Celkově je aplikace působivým nástrojem údržby, který poskytuje výkon i funkce. Vysoce doporučeno.
+  review_2: Pointa je, že Geek Uninstaller je pěkný nástroj, který může být docela užitečný. Nezkušení uživatelé by díky jeho intuitivnímu uspořádání a celkové jednoduchosti neměli mít při práci s tímto programem žádné potíže.
+  review_3: Geek Uninstaller je ideální pro každého, kdo se chce ujistit, že při odinstalaci programu na svém systému nic nezanechá.
+  review_4: Geek Uninstaller je přenosný a podporuje téměř všechny funkce, které by někdo očekával od nástroje pro odinstalaci. Ideální pro flash disky, protože je to jeden soubor, který zabírá velmi málo místa.
+  review_5: Už mě tak omrzelo používání několika různých odinstalačních programů, jen abych mohl spravovat své 32 i 64bitové aplikace. Nejen, že nefungovaly tak dobře, jak bych si přál, ale většina z nich byla přeplněná všemi druhy zbytečných funkcí, které jsem nechtěl. Geek Uninstaller je pro mě perfektní odinstalátor. Uživatelské rozhraní je jednoduché a dokonalé a odinstalace jsou rychlé a přesné. Přál bych si, abych to našel dříve, protože jsem se konečně nabažil další bezplatné 64bitové odinstalační aplikace a před týdnem jsem ustoupil a koupil si licenci Revo Pro... Váš program se mi líbí natolik, že jsem ho použil k odstranění Revo Pro poté, co jsem to nainstaloval, lol.
+  review_6: Již dříve jsem používal jiné odinstalační programy (např. Revo Uninstaller a další) a váš produkt je překonává. Je to tak snadné použití a nikdy jsem neměl problém, jako jsem měl s Revo, s programy, které nezaplňují seznam odinstalací. Software instaluji a odinstaluji celkem pravidelně a GeekUninstaller mi rozhodně usnadnil život, nemluvě o tom, že můj počítač je mnohem čistší. Ještě jednou děkuji za skvělý produkt.
+  review_7: Chci vám jen poděkovat za vývoj tak úžasného softwaru. Nedávno jsem použil Revo Uninstaller a IObit Uninstaller, až na to, že jejich použití nebylo tak příjemné. Revo Uninstaller by nevypsal všechny mé programy a IObit Uninstaller se jich zbavil příliš mnoho, což způsobilo další konflikty programů. Takže, ve zkratce... vzdal jsem se používání odinstalačních programů, dokud jsem si nestáhl GeekUninstaller. Doslova jste vytvořili něco mnohem lepšího než konkurence....A já vám za to chci jen poděkovat. Již jsem začal doporučovat váš produkt přátelům a rodině. Dobrá práce, kterou jste zde odvedli, pokračujte ve skvělé práci.
+  review_8: Za ty roky jsem vyzkoušel tuny odinstalátorů. Geek Uninstaller je nejlepší odinstalátor, jaký jsem kdy viděl. Jednoduché, extrémně efektivní, snadné a zvládne to. Gratuluji.
+
+download_page:
+  title: Geek Uninstaller – ke stažení
+  description: Geek Uninstaller – ke stažení
+  free_info: pro osobní užití
+  free_text: Základní odinstalační program, i když výkonný <br>a bleskově rychlý.
+  free_feature_1: Pouze osobní použití
+  free_feature_2: Bez podpory
+  pro_info: doživotní licence
+  pro_text: Speciální edice (nástroj pro odinstalaci) <br>s extra funkcemi.
+  pro_from: z
+  pro_feature_1: Monitor instalace v reálném čase
+  pro_feature_2: Správa spouštěcích programů
+  pro_feature_3: Odstranění
+  pro_feature_4: Důkladné a úplné odstranění
+  pro_feature_5: Moderní rozhraní, technická podpora
+  pro_feature_6: K dispozici je přenosná licence
+  pro_button_trial: Zkušební verze zdarma
+  pro_button_buy: Kup nyní
+  compatibility: Kompatibilita
+  compatibility_text: 32 &amp; 64bitový systém Windows 11/10/7/8/8.1. Vyžaduje oprávnění správce. <br>Při spuštění na x64 Windows Geek Uninstaller běží jako nativní 64bitová aplikace.
+  release_notes: Latest release notes
+  release_notes_button: View full list
+
+about-page:
+  title: O Geek Uninstaller a jeho autorovi
+  description: O Geek Uninstaller a jeho autorovi
+  text_1: Jmenuji se Thomas Koen. Jako vývojář softwaru trávím spoustu času před obrazovkou počítače. A proto mi na svých softwarových nástrojích opravdu záleží. Jsem docela vybíravý a mám vyhraněné názory, jak by mé nástroje měly fungovat. Je pravděpodobné, že jste mi podobní.
+  text_2: Geek Uninstaller je jednoduchý, ale velmi výkonný a rychlý nástroj (je napsán v C++).
+  pro_text: Pro verze Geek Uninstaller se nazývá [Uninstall Tool](https://crystalidea.com/uninstall-tool?source=geek&campaign=about) a je vyvinut společností CrystalIDEA Software na základě mého kódu.
+  contact_me_title: Kontaktujte mě
+  contact_me_text: Pokud mě potřebujete kontaktovat, použijte níže uvedenou e-mailovou adresu. Napište mi prosím pouze v angličtině nebo holandštině.
+  contact_me_button: Pošlete mi e-mail
+
+footer:
+  connect_with_us: Připojte se pomocí Geek Uninstaller
+  languages: Jazyky
+  products: Programy
+  try_ut: Vyzkoušejte Geek Uninstaller Pro
+  try_ut_more: Uninstall Tool je založen na kódu Geek Uninstaller.
+  try_download: Stáhnout
+  privacy_policy: Zásady ochrany osobních údajů
